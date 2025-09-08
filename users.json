@@ -3,6 +3,11 @@
     "username": "dry",
     "password": "dry123",
     "role": "owner"
+  }, 
+  {
+    "username": "mex",
+    "password": "mex123",
+    "role": "owner"
   },
   {
     "username": "tester",
